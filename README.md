@@ -132,7 +132,8 @@ InitializingBean usersAndGroupsInitializer(final IdentityService identityService
  	<li style="text-align: justify;"><strong>spring.datasource.username:</strong> Login username of the database.</li>
 </ul>
 <p style="text-align: justify;">By adding this properties, we will be overriding the default values found in Spring's <code>DataSourceProperties</code> class.</p>
-Second, we need to override the default bean. We can create the new bean in the file where the main function is, for example. Copy and paste the following code:
+<p style="text-align: justify;">Second, we need to override the default bean. We can create the new bean in the file where the main function is, for example. Copy and paste the following code:</p>
+
 <pre class="EnlighterJSRAW" data-enlighter-language="java" data-enlighter-theme="classic">  @Autowired
   private DataSourceProperties properties;
   
