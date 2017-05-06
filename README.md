@@ -1,6 +1,17 @@
 # integrate-activiti-with-spring
 In this post, you will learn how to integrate Activiti's engine and REST API into your Spring application. At the same time, you will be able to adapt the Process Engine to your needs by modifying the database connection and the Async Job Executor.
 
+<h2 style="text-align: justify;">Contribute Code</h2>
+<p style="text-align: justify;">If you would like to become an active contributor to this project please follow these simple steps:</p>
+
+<ol>
+ 	<li style="text-align: justify;">Fork it</li>
+ 	<li style="text-align: justify;">Create your feature branch</li>
+ 	<li style="text-align: justify;">Commit your changes</li>
+ 	<li style="text-align: justify;">Push to the branch</li>
+ 	<li style="text-align: justify;">Create new Pull Request</li>
+</ol>
+
 <p class="sect1"><strong>Source code</strong> can be downloaded from <a href="https://github.com/canchito-dev/integrate-activiti-with-spring" target="_blank" rel="noopener noreferrer">github</a>.</p>
 
 <h2 class="sect1">What you’ll need</h2>
